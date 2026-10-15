@@ -1,0 +1,20 @@
+.product{
+    display: flex;
+    gap: 100px;
+}
+
+.product img {
+
+    width: 450px;
+    height: 400px;
+    object-fit: cover;
+
+}
+
+.foto{
+
+        margin-left: 650px;
+
+
+}
+
